@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "yosakoi-taxi"
+  },
+  "targets": {
+    "yosakoi-taxi": {
+      "hosting": {
+        "route-app": [
+          "route-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
